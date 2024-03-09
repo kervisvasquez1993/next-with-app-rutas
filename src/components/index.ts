@@ -1,2 +1,5 @@
 export * from "./ui/top-menu"
 export * from "./ui/not-found/PageNotFound"
+export * from "./ui/Title/Title"
+export * from "./product/product-grid/ProductGrid"
+export * from "./product/product-grid/ProductGridItem"
